@@ -23,6 +23,12 @@
       "day": "5:30pm",
       "isDone": false,
       "id": 5
+    },
+    {
+      "text": "MR çekimi",
+      "day": "12.05.2022 & 23:30",
+      "isDone": false,
+      "id": 6
     }
   ]
 }
